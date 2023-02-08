@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @barong10
-- 👀 I’m interested in Data
-- 🌱 I’m currently learning IBM Data Science Professional Specialization
+- 👀 I’m interested in Programming, Java enthusiast!
+- 🌱 IBM Data Science Certified Professional
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 How to reach me? Here on GitHub or on LinkedIn via; https://www.linkedin.com/in/brown-arong-jnr-34827392
 
